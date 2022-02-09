@@ -1,7 +1,7 @@
 # Project Cv Full Stack
 
-This will be a full stack project for learning purposes and will contain the following tools and technologies. The project will consist in a basic three tier arquitecture and will be mainly focued on JavaScript.
-We will use a very basic kaban aproach with tickets using the issue board provided by github plus we will implement dailies and every other necesary ceremony in order to have an idea of a developers day to day activities.
+This will be a full stack project for learning purposes and will contain the following tools and technologies. The project will consist in a basic three tier architecture and will be mainly focused on JavaScript.
+We will use a very basic kaban approach with tickets using the issue board provided by github plus we will implement dailies and every other necessary ceremony in order to have an idea of a developers day to day activities.
 
 From now on some words and phrases will be shorten to the following:
 Front End - FE
@@ -16,7 +16,7 @@ Data Base - DB
 - Bootstrap
 - JavaScript
 - React
-- Redux(if posible)
+- Redux
 
 # Back End
 
@@ -40,7 +40,7 @@ At this point we have a better understanding on the basics of HTML, CSS and JS a
 
 ### Basic Back End
 
-Here we will beggin working on the BE, like the FE at the start we will do the basics, take a request and return a response.
+Here we will begin working on the BE, like the FE at the start we will do the basics, take a request and return a response.
 
 ### Data Base
 
@@ -56,7 +56,7 @@ Since testing is not the main focus but a nice to have we will start implementin
 
 ## Files and folders
 
-The project will be separated in two folders, Front-End and Back-End, each folder contains _.md_ files for instalation guides and more info regarding features.
+The project will be separated in two folders, Front-End and Back-End, each folder contains _.md_ files for installation guides and more info regarding features.
 
 ## Work flow
 
@@ -67,3 +67,13 @@ We will have tags to clarified that a ticket is ready to be taken:
 _groomed_
 
 Other relevant tags will be listed here.
+
+# Branching Rules
+
+To create a branch please follow the next structure.
+
+|               | Branch structure                    |
+| ------------- | ----------------------------------- |
+| feature       | feature/001-title-of-the-ticket     |
+| bugfix        | fix/002-title-or-concept-of-the-fix |
+| documentation | doc/003-documentation-title         |
