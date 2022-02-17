@@ -1,0 +1,28 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": " front end side of the cv project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvacampos/Cv-project-full-stack.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Gonzalo Alvarez Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvacampos/Cv-project-full-stack/issues"
+  },
+  "homepage": "https://github.com/Alvacampos/Cv-project-full-stack#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
