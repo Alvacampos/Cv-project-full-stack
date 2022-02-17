@@ -24,7 +24,7 @@ Using "VanillaJS" means using plain JavaScript without any additional libraries 
 
 # Road Map
 
-![Alt text](/roadmap.PNG?raw=true 'Title')
+![Road Map](/roadmap.PNG?raw=true 'Title')
 
 Here is the roadmap, as you can see there are learning stages and implementation stages. The idea is to follow this roadmap, learn what you have to learn and then implement it, once the basics are mastered we can jump to the next learning stage and so on.
 At the end you will see a more detail [path](#month-to-month-work)
@@ -147,11 +147,11 @@ Since this is part a personal project/study guide we will create tickets/issues 
 
 # Month to Month work
 
-We will try to sort the project in "months", what does this means? We will divide each month with topics to learn or implement. Feel free to take more or less time this is just a guide.
+We will try to sort the project in "months", what does this means? We will divide each month with topics to learn or implement. Feel free to take more or less time this is just a guide and follow the guide to develop your own project or follow mine.
 
 Here you will have some basic definitions with links to free crash courses or tutorials in youtube. In the future this section might get expand.
 
-## Month 1 & 2:
+## Months 1 & 2:
 
 First we need to learn a few things. And install a few others.
 
@@ -172,3 +172,5 @@ For most project you will use a few things.
 - [GIT](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=843s&ab_channel=TraversyMedia)
 - [NodeJS](https://nodejs.org/en/download/)
 - [VsCode](https://code.visualstudio.com/download)
+
+## Months 3, 4 & 5:
