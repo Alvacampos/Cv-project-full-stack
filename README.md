@@ -1,25 +1,33 @@
 # Project Cv Full Stack
 
-This is a full stack project that will guide anyone with the basics to become a developer. The following text will explain the plan of action and some basic guidelines.
+This is a full stack project to show what we have learned. The idea is to mimic the full work experience of a developer in 2022, so when we get a job as a dev we can be ready for anything, from ticket creating and grooming to working on an end to end ticket!.
+
+If you fork this project it can served you as a guideline to arm your self with the basics(and a little more) to become a developer. The following text will explain the plan of action and some basic guidelines.
+
+This file will be the only guide and a helpful tool for newcomers, all the other .md files will be topic specific and for knowledge transference purposes. The idea is to keep a good documentation (to learn how to document) for the benefit of other project members and future developers that will join the team.
 
 From now on some words and phrases will be shorten to the following:
+
 Front End - FE
+
 Back End - BE
+
 JavaScript - Js
+
 Data Base - DB
+
 Application - App
 
-### What is vanilla js?
+## What is vanilla js?
 
 Using "VanillaJS" means using plain JavaScript without any additional libraries like jQuery. So for the first few months you will develop using the very core of Js, no extras, no sweeteners.
 
-# Road Map and Main Branches
+# Road Map
 
 ![Alt text](/roadmap.PNG?raw=true 'Title')
 
 Here is the roadmap, as you can see there are learning stages and implementation stages. The idea is to follow this roadmap, learn what you have to learn and then implement it, once the basics are mastered we can jump to the next learning stage and so on.
-
-For educational purposes this project will be created in stages with different "main" branches. We will have 3 main branches and master will be kept clean with only some md files.
+At the end you will see a more detail [path](#month-to-month-work)
 
 ## Architecture and Methodology
 
@@ -89,11 +97,11 @@ Now that we have a basic BE we can hook it up to a DB, a free tier mongo DB for 
 
 ## Upgrade to React
 
-At this point we have a better understanding on the basics of HTML, CSS and JS and we will migrate to ReactJs to do the same learning process. **IF** possible we will try to implement most of Reacts features even if they sound overkill for a project of this scale. (Remember we aim to learn).
+At this point we have a better understanding on the basics of HTML, CSS and JS and we will migrate to ReactJs to do the same learning process. Here we will implement the basics of ReactJs.
 
 ## End 2 End
 
-Now at we have all the basics we can work on all the tiers. At this point most tickets will involved a full stack work.
+Now at we have all the basics we can work on all the tiers. At this point most tickets will involved a full stack work. **IF** possible we will try to implement most of Reacts features even if they sound overkill for a project of this scale. (Remember we aim to learn). The same goes for the BE, we will try to show off what we can do!.
 
 ## Testing
 
@@ -125,7 +133,7 @@ Other relevant tags will be listed here.
 
 # Branching Rules
 
-To create a branch please follow the next structure. This should be respected in regardless of the "current master branch".
+To create a branch please follow the next structure. This should be respected regardless of the "current main branch".
 
 |               | Branch structure                    |
 | ------------- | ----------------------------------- |
@@ -141,4 +149,26 @@ Since this is part a personal project/study guide we will create tickets/issues 
 
 We will try to sort the project in "months", what does this means? We will divide each month with topics to learn or implement. Feel free to take more or less time this is just a guide.
 
-TODO: Add each month of study/development for guideline purposes.
+Here you will have some basic definitions with links to free crash courses or tutorials in youtube. In the future this section might get expand.
+
+## Month 1 & 2:
+
+First we need to learn a few things. And install a few others.
+
+### What we need to learn?
+
+- What is [HTML](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)? HTML means HyperText Markup Language. If we think of think this project like a human body HTML would be the bones, the basic structure and what serves as the structure that will support all the rest. This is **NOT** a programming language, is a markup language.
+
+- What is [CSS](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia)? CSS means Cascading Style Sheets. This would be the skin of the body, the "pretty" part, what we look at every time we visit the page. With this we can give our project color, shapes and much more.
+
+- What is [JS](https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh)? Js, JavaScript ECMAScript (basically they are all the same JavaScript) its a programming language, you can think about it like the muscles of the body what enables movement and allows us to interact with others. I few things to have into account, JS is not similar or a lost brother of Java, the Java in JS was just to lure developers into check in it out when it was in its early steps. Now a days its more common to call it just JS. [Here](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) is a more in depth course but also a lot longer.
+
+- What is [GIT](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=843s&ab_channel=TraversyMedia)? It's a version control for tracking changes in a computer files, this allows multiple programmers to work on the same project. You can think of it as a stop light, it coordinates who can pass through in an orderly fashion. It comes with it own CMD and many other features. Remember that you should respect the [Main Branches](#main-branches) and try to follow the [Branching Rules](#branching-rules)
+
+### What you need to install?
+
+For most project you will use a few things.
+
+- [GIT](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=843s&ab_channel=TraversyMedia)
+- [NodeJS](https://nodejs.org/en/download/)
+- [VsCode](https://code.visualstudio.com/download)
