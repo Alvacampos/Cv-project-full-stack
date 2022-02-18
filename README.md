@@ -33,7 +33,6 @@ Application - App
 ![Road Map](/roadmap.PNG?raw=true)
 
 Here is the roadmap, as you can see there are learning stages and implementation stages. The idea is to follow this roadmap, learn what you have to learn and then implement it, once the basics are mastered we can jump to the next learning stage and so on.
-At the end you will see a more detail [path](#month-to-month-work)
 
 # Stages of the project
 
