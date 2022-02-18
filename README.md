@@ -18,10 +18,6 @@ Data Base - DB
 
 Application - App
 
-## What is vanilla js?
-
-Using "VanillaJS" means using plain JavaScript without any additional libraries like jQuery. So for the first few months you will develop using the very core of Js, no extras, no sweeteners.
-
 # Table Of Contents
 
 - [Road Map](#road-map)
@@ -46,6 +42,10 @@ Next the different stages of the project will be listed and explain, feel free t
 ## Basic Vanilla Front End
 
 Due to learning purposes first the FE will be developed with vanilla JS (plus html and css) to get a better grasp on the previously mention topics.
+
+### What is vanilla js?
+
+Using "VanillaJS" means using plain JavaScript without any additional libraries like jQuery. So for the first few months you will develop using the very core of Js, no extras, no sweeteners.
 
 ## Basic Back End
 
