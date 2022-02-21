@@ -1,0 +1,23 @@
+/* En css hay distintos tipos de selectores, los mas comunes son los ID que se identifican con #nombre  y las clases que se refencian con un .nombre*/
+#main-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#main-title {
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+#secondary-section {
+  display: flex;
+}
+
+.content-1 {
+  width: 50%;
+  border: 3px solid black;
+  margin: 5px;
+  padding: 5px;
+}
