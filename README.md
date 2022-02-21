@@ -4,7 +4,7 @@ This is a full stack project to show what we can do!. The idea is to mimic the f
 
 If you fork this project it can served you as a guideline to arm your self with the basics(and a little more) to become a developer. The following text will explain the plan of action and some basic guidelines.
 
-This file will be the only guide and a helpful tool for newcomers, all the other .md files inside Front-end and Back-end folders will be topic specific and for knowledge transference purposes. The idea is to keep a good documentation (to learn how to document) for the benefit of other project members and future developers that will join the team.
+This file will be the only guide and a helpful tool for newcomers, all the other .md files will be topic specific and for knowledge transference purposes. The idea is to keep a good documentation (to learn how to make a documentation) for the benefit of other project members and future developers that will join the team.
 
 From now on some words and phrases will be shorten to the following:
 
@@ -21,12 +21,12 @@ Application - App
 # Table Of Contents
 
 - [Road Map](#road-map)
-- [Main branches](./technologies-and-more.md#tools-technologies-and-more.md#main-branches)
+- [Main branches](./technologies-and-more.md#tools-technologies-and-more#main-branches)
 - [Tools, Technologies & More](./technologies-and-more.md#tools-technologies-and-more)
 - [Stages of the project](#stages-of-the-project)
 - [Files and folders structure](./technologies-and-more.md#tools-technologies-and-more)
 - [Work flow](./technologies-and-more.md#work-flow)
-- [Branching Rules](./technologies-and-more.md#branching-rules)
+- [Branching Rules](./technologies-and-more#branching-rules)
 
 # Road Map
 
