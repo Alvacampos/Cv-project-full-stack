@@ -87,3 +87,16 @@ Other relevant tags will be listed here.
 ---
 
 - [Return to README](README.md#project-cv-full-stack)
+
+# Deployment
+
+There are multiple ways to deploy projects, here we will use Netlify for the FE. It's free and allows us to deploy whatever we want with relative ease.
+For the BE we will use Heroku, that also come with a free tier and gets along great with github.
+
+## Netlify
+
+For Netlify you can follow the [Get started with Netlify](https://docs.netlify.com/get-started/) you can deploy your project from the get go or wait until is more mature. Of course you will need a netlify account, no credit card is need it.
+
+## Heroku
+
+For Heroku is pretty much the same, you can do it now or later on the project. Here is the [documentation](https://devcenter.heroku.com/articles/getting-started-with-nodejs) you also need an account and no credit card is need it.
