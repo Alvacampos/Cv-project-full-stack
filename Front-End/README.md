@@ -8,4 +8,5 @@ First do an npm install, yeah I know we talked that this was vanilla but we will
 
 ## Live-server
 
+- run npm `install -g live-server`
 - npm run dev -> to run live-server and allow your vanilla app to have hot reload.
