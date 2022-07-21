@@ -6,24 +6,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- En la linea 8 vas a ver un tag(etiqueta) link, esa tag en especial se usa para cargar archivos css(de estilos), es una forma practica para cargar archivos de estilos y no escribir todo en el archivo html -->
-    <link href="./index.css" rel="stylesheet" />
+
+    <link href="./output.css" rel="stylesheet">
     <title>Vanilla Stage</title>
   </head>
   <body>
     <!-- Selector id es unico, debe tener un nombre unico -->
-    <div id="main-div">
+    <div class="text-red-700 text-3xl font-bold underline" id="main-div">
       <p id="main-title">Hello World</p>
       <img
+      class="mt-5"
         id="under-construction"
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9gwW_o8S7HjAH1YqMjg9DNFsWDcQcQ9PQEVBi68f1xHt_oQ7Uso7gGRSA277-0783fsc&usqp=CAU"
         alt="under-construction-img"
       />
     </div>
-    <div id="secondary-section">
+    <div id="secondary-section" class="mt-5">
       <!-- Selector class puede ser usado para estilar varios tags -->
       <div class="content-1">
         <!-- Cada tag h(1,2,3,4,5) tiene su propio "peso" o importancia siendo h1 el mas grande e importante -->
-        <h1>Test</h1>
+        <h1 class="text-[100px]">Test</h1>
         <h2>Test</h2>
         <h5>Test</h5>
       </div>

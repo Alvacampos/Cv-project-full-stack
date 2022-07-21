@@ -10,3 +10,7 @@ First do an npm install, yeah I know we talked that this was vanilla but we will
 
 - run npm `install -g live-server`
 - npm run dev -> to run live-server and allow your vanilla app to have hot reload.
+
+## Tailwind
+
+- To run tailwind use another console (not the live server) and run `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
