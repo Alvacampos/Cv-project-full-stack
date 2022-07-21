@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /* En css hay distintos tipos de selectores, los mas comunes son los ID que se identifican con #nombre  y las clases que se refencian con un .nombre*/
 #main-div {
   display: flex;
